@@ -1,0 +1,40 @@
+0000000000000000000000000000000000000000 489b0e9b183bd0b050cdac93b118229df029dd5d Weverton Santos <wever-santos@hotmail.com> 1663458660 -0300	clone: from https://github.com/wevertonteste/curso-git.git
+489b0e9b183bd0b050cdac93b118229df029dd5d ab32f89accf4190034c2ab6d14215839e5084f2e Weverton Santos <wever-santos@hotmail.com> 1663458743 -0300	commit: Adicionando h1
+ab32f89accf4190034c2ab6d14215839e5084f2e 0000000000000000000000000000000000000000 Weverton Santos <wever-santos@uni9.edu.br> 1663458954 -0300	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 ab32f89accf4190034c2ab6d14215839e5084f2e Weverton Santos <wever-santos@uni9.edu.br> 1663458954 -0300	Branch: renamed refs/heads/main to refs/heads/master
+ab32f89accf4190034c2ab6d14215839e5084f2e 489b0e9b183bd0b050cdac93b118229df029dd5d Weverton Santos <wever-santos@uni9.edu.br> 1663459187 -0300	checkout: moving from master to main
+489b0e9b183bd0b050cdac93b118229df029dd5d 3fc0600c5f497402a1089858b75b415926aff0b2 Weverton Santos <wever-santos@uni9.edu.br> 1663459298 -0300	commit: Introduzindo h1 com fork
+3fc0600c5f497402a1089858b75b415926aff0b2 81c829f582fcfa09b6f97049a00d4ee86d87c6cb Weverton Santos <wever-santos@uni9.edu.br> 1663460017 -0300	commit: Adicionando h2
+81c829f582fcfa09b6f97049a00d4ee86d87c6cb 749b9b136e6e9814c30c64aa538e31f1a7d49228 Weverton Santos <wever-santos@uni9.edu.br> 1663460055 -0300	commit: Adicionando quebra de linha
+749b9b136e6e9814c30c64aa538e31f1a7d49228 3fc0600c5f497402a1089858b75b415926aff0b2 Weverton Santos <wever-santos@uni9.edu.br> 1663460205 -0300	rebase (start): checkout HEAD~3
+3fc0600c5f497402a1089858b75b415926aff0b2 f1cfafe4fd97018721e0191dcc5c91604256004d Weverton Santos <wever-santos@uni9.edu.br> 1663460205 -0300	rebase (squash): # This is a combination of 2 commits.
+f1cfafe4fd97018721e0191dcc5c91604256004d dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663460205 -0300	rebase (squash): Adicionando h1, h2 no novo commit com rebase
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663460205 -0300	rebase (finish): returning to refs/heads/main
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663460335 -0300	pull origin main: Merge made by the 'ort' strategy.
+c91e19e3eb0632f700086a4af8f8a20a526b006b 00aaf9de85e52080d9f6a3768cbed6fe4718d8b0 Weverton Santos <wever-santos@uni9.edu.br> 1663460556 -0300	rebase (start): checkout HEAD~3
+00aaf9de85e52080d9f6a3768cbed6fe4718d8b0 bab89c4395024721f2de8bf428bab6471650f2d3 Weverton Santos <wever-santos@uni9.edu.br> 1663460556 -0300	rebase (pick): Adicionando h1, h2 no novo commit com rebase
+bab89c4395024721f2de8bf428bab6471650f2d3 c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663461602 -0300	rebase (abort): updating HEAD
+c91e19e3eb0632f700086a4af8f8a20a526b006b 00aaf9de85e52080d9f6a3768cbed6fe4718d8b0 Weverton Santos <wever-santos@uni9.edu.br> 1663461631 -0300	rebase (start): checkout HEAD~3
+00aaf9de85e52080d9f6a3768cbed6fe4718d8b0 e2d1d617f4d8a5377ab038e15bd7e326e138a5b7 Weverton Santos <wever-santos@uni9.edu.br> 1663461631 -0300	rebase (pick): Adicionando h1, h2 no novo commit com rebase
+e2d1d617f4d8a5377ab038e15bd7e326e138a5b7 c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663461636 -0300	rebase (abort): updating HEAD
+c91e19e3eb0632f700086a4af8f8a20a526b006b 00aaf9de85e52080d9f6a3768cbed6fe4718d8b0 Weverton Santos <wever-santos@uni9.edu.br> 1663461668 -0300	rebase (start): checkout HEAD~3
+00aaf9de85e52080d9f6a3768cbed6fe4718d8b0 6eace571ca4ee610712c20c8617e0c373ef06459 Weverton Santos <wever-santos@uni9.edu.br> 1663461668 -0300	rebase (pick): Adicionando h1, h2 no novo commit com rebase
+6eace571ca4ee610712c20c8617e0c373ef06459 c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663461673 -0300	rebase (abort): updating HEAD
+c91e19e3eb0632f700086a4af8f8a20a526b006b c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663461683 -0300	rebase (start): checkout refs/remotes/origin/main
+c91e19e3eb0632f700086a4af8f8a20a526b006b c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663461683 -0300	rebase (finish): returning to refs/heads/main
+c91e19e3eb0632f700086a4af8f8a20a526b006b dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663461708 -0300	rebase (start): checkout HEAD~2
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663462801 -0300	rebase (abort): updating HEAD
+c91e19e3eb0632f700086a4af8f8a20a526b006b d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663462986 -0300	commit (merge): h2
+d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663463353 -0300	rebase (start): checkout refs/remotes/origin/main
+d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663463353 -0300	rebase (finish): returning to refs/heads/main
+d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663463413 -0300	rebase (start): checkout HEAD~3
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663463425 -0300	rebase (abort): updating HEAD
+d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663463445 -0300	rebase (start): checkout HEAD~2
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663463448 -0300	rebase (abort): updating HEAD
+d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663463504 -0300	rebase (start): checkout HEAD~3
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663463517 -0300	rebase (abort): updating HEAD
+d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663463567 -0300	rebase (start): checkout HEAD~3
+dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 3648e8683ad4d67c9184af1a79cd3df5297f2dcf Weverton Santos <wever-santos@uni9.edu.br> 1663463621 -0300	commit: Adicionando h2
+3648e8683ad4d67c9184af1a79cd3df5297f2dcf e9e0dc39803deb2abfd557d386619d339e87ce29 Weverton Santos <wever-santos@uni9.edu.br> 1663463647 -0300	rebase (continue) (squash): # This is a combination of 3 commits.
+e9e0dc39803deb2abfd557d386619d339e87ce29 23fd2ed79824ebb57809bdec93361ec579fb0d15 Weverton Santos <wever-santos@uni9.edu.br> 1663463653 -0300	rebase (continue): Adicinando todos os commits em novo commit rebase
+23fd2ed79824ebb57809bdec93361ec579fb0d15 d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663463924 -0300	rebase (abort): updating HEAD
