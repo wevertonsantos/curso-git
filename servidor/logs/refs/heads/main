@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 489b0e9b183bd0b050cdac93b118229df029dd5d Weverton Santos <wever-santos@uni9.edu.br> 1663459187 -0300	branch: Created from refs/remotes/origin/main
-489b0e9b183bd0b050cdac93b118229df029dd5d 3fc0600c5f497402a1089858b75b415926aff0b2 Weverton Santos <wever-santos@uni9.edu.br> 1663459298 -0300	commit: Introduzindo h1 com fork
-3fc0600c5f497402a1089858b75b415926aff0b2 81c829f582fcfa09b6f97049a00d4ee86d87c6cb Weverton Santos <wever-santos@uni9.edu.br> 1663460017 -0300	commit: Adicionando h2
-81c829f582fcfa09b6f97049a00d4ee86d87c6cb 749b9b136e6e9814c30c64aa538e31f1a7d49228 Weverton Santos <wever-santos@uni9.edu.br> 1663460055 -0300	commit: Adicionando quebra de linha
-749b9b136e6e9814c30c64aa538e31f1a7d49228 dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 Weverton Santos <wever-santos@uni9.edu.br> 1663460205 -0300	rebase (finish): refs/heads/main onto 489b0e9b183bd0b050cdac93b118229df029dd5d
-dc279adfa78efe09bf7800fc8ef7b2c58ddb39a5 c91e19e3eb0632f700086a4af8f8a20a526b006b Weverton Santos <wever-santos@uni9.edu.br> 1663460335 -0300	pull origin main: Merge made by the 'ort' strategy.
-c91e19e3eb0632f700086a4af8f8a20a526b006b d4d2a8b48dce722aa51a25e8fb7bfe1ee1ed9cbf Weverton Santos <wever-santos@uni9.edu.br> 1663462986 -0300	commit (merge): h2
